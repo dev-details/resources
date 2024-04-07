@@ -4,6 +4,8 @@
 - [Big-O Practice](https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/big-o-practice) - Practice measuring complexity
 - [Big-O Introduction](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/715/introduction/4654/) - Free introduction, paid course to learn DSA
 - [Nearly All Binary Searches and Mergesorts are Broken](https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html) - 🤯
+- [Neetcode](https://neetcode.io) - Free articles and paid courses with videos that teach DSA fundamentals to prepare for interviews.
+- [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/) - Beginner friendly video course by The Primeagen. 
 - [Coursera Introduction to Algorithms](https://www.coursera.org/learn/introduction-to-algorithms/) - Free course from Princeton University
 - [Deepti Talesra](https://www.youtube.com/@DEEPTITALESRA) - Underrated. Watch Deepti solve LeetCode problems as you would in an interview.
 - [Udemy Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) - Inexpensive course (paid)
